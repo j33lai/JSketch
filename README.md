@@ -1,2 +1,2 @@
 # JSketch
-(https://github.com/j33lai/JSketch/blob/master/example.png)
+(https://raw.githubusercontent.com/j33lai/JSketch/master/example.png)
